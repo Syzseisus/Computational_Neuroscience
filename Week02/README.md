@@ -8,11 +8,11 @@
   2.3 Neural Encoding: Feature Selection  
 3. Neural Encoding: Variability  
   2.4 Neural Encoding: Variability  
-4. Supplementary Video Tutorials  
-  - Vectors and Functions (by Rich Pang)  
-  - Convolutions and Linear Systems (by Rich Pang)  
-  - Change of Basis and PCA (by Rich Pang)  
-  - Welcome to the Eigenworld! (by Rich Pang)  
+4. Supplementary Video Tutorials
+    - Vectors and Functions (by Rich Pang)   
+    - Convolutions and Linear Systems (by Rich Pang)  
+    - Change of Basis and PCA (by Rich Pang)  
+    - Welcome to the Eigenworld! (by Rich Pang)  
 5. Graded Quiz
-  - Code
-  - Quiz
+    - Code
+    - Quiz
